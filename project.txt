@@ -1,0 +1,12 @@
+green_wings_app/
+│
+├── app.py
+│
+├── static/
+│   ├── styles.css
+│   ├── scripts.js
+│   └── screen-capture.mp4
+│
+└── templates/
+    └── index.html
+
